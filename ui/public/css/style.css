@@ -1,0 +1,35 @@
+.mynav{
+    background: rgba(240, 166, 28, 0.966);
+}
+
+.banner{
+    width: 100%;
+    height: 1px;
+}
+
+.cath{
+    background: rgba(245, 155, 71, 0.781);
+    color: #FFF;
+}
+
+.card{
+    text-align: center;
+    height: 350px;
+    -webkit-box-shadow: 2px 2px 2px 2px #B0B0B0;
+    box-shadow: 2px 2px 2px 2px #B0B0B0;
+    margin-bottom: 30px;
+    background: #1ff030f3;
+    padding: 20px;
+}
+
+.card:hover{
+    -webkit-box-shadow: 4px 4px 4px 4px #3B3B3B;
+    box-shadow: 4px 4px 4px 4px #3B3B3B;
+}
+
+.footer{
+    background: #884303b9;
+    color: #000;
+    text-align: center;
+    padding: 20px;
+}
